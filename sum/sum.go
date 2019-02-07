@@ -19,4 +19,3 @@ func SumInt32(a, b int32) int32 {
 func SumInt64(a, b int64) int64 {
 	return a + b
 }
-
